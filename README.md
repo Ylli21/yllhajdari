@@ -1,6 +1,6 @@
 # 👋 Hey there!
 
-I'm *Ylli**, an aspiring Software Engineer with a love for clean code, creative design, and coffee (sometimes too much ☕).
+I'm *Ylli*, an aspiring Software Engineer with a love for clean code, creative design, and coffee (sometimes too much ☕).
 
 ## 🚀 About Me
 
